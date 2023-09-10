@@ -1,4 +1,3 @@
-```markdown
 # 🚀 Telco Customer Churn Prediction 🚀
 
 ## Table of Contents
