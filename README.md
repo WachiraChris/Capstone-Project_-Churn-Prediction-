@@ -22,7 +22,7 @@ Our primary project objective is to develop highly accurate machine learning mod
 
 | Code     | Name                          | Published Article | Deployed App    |
 | -------- | ----------------------------- | ----------------- | --------------- |
-| Capstone | Telco Customer Churn Prediction | Medium Article    | Streamlit App   |
+| Capstone | Telco Customer Churn Prediction | Medium Article    | Gradio  App   |
 
 ## Project Setup
 
